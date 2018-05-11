@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <!--Header text for the list of topping [CHAR LIMIT=20]-->
+    <string name="toppings">Toppings</string>
+
+    <string name="thank_you">Than you</string>
+
+    <string name="order_summary">Name: %s</string>
+
+    <string name="add_chocolate">Add chocolate: %s</string>
+
+    <string name="add_whipped">Add whipped: %s</string>
+
+    <string name="quantity">Quantity: %s</string>
+
+    <string name="total">Total: %s</string>
+</resources>
